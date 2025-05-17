@@ -12,7 +12,7 @@
 * **Chatbot 24/7**: interfaccia conversazionale per rispondere a domande su edizioni, quotazioni, consigli di collezionismo.
 * **Retrieval semantico**: ricerca intelligente all’interno del catalogo documentale (descrizioni, quotazioni storiche, guide).
 * **Memoria conversazionale**: mantiene il contesto delle conversazioni per follow‑up coerenti.
-* **Modello LLM locale**: utilizzo di Llama 2 tramite Hugging Face per eliminare costi API.
+* **Modello LLM locale**: utilizzo di Llama 2 tramite Hugging Face.
 * **Embeddings e Vector DB**: `sentence‑transformers` + Chroma per indicizzazione e similarity search.
 * **API RESTful**: server FastAPI pronto per integrazione frontend (web/mobile).
 
