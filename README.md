@@ -1,4 +1,4 @@
-# OtakuAdvisor-
+# OtakuAdvisor
 
 **OtakuAdvisor** è un assistente virtuale per collezionisti di manga, fumetti e memorabilia anni ’80–’90. Basato su modelli open‑source e su tecniche di retrieval semantico, fornisce stime di valore, consigli d’acquisto/vendita e informazioni sulle edizioni in tempo reale.
 
