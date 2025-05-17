@@ -1,6 +1,6 @@
 # OtakuAdvisor
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aa6a3a69-e137-4d5e-9d99-7adcc75bea66" alt="Otaku" width="600" height="600">
+  <img src="https://github.com/user-attachments/assets/aa6a3a69-e137-4d5e-9d99-7adcc75bea66" alt="Otaku" width="300" height="300">
 </p>
 
 **OtakuAdvisor** è un assistente virtuale per collezionisti di manga, fumetti e memorabilia anni ’80–’90. Basato su modelli open‑source e su tecniche di retrieval semantico, fornisce stime di valore, consigli d’acquisto/vendita e informazioni sulle edizioni in tempo reale.
